@@ -1,2 +1,1 @@
-# note-taker
-Module 11 Challenge Assignment
+# Note Taker Starter Code
