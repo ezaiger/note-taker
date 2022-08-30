@@ -7,6 +7,7 @@
 
   ## Description
   An application that can be used to write and save notes.
+  ![alt text](./assets/images/note-taker-ezaiger.herokuapp.com_.png "Screenshot of completed webpage")
 
   ## Table of Contents
   - [Installation](#installation)
